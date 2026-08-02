@@ -1,1 +1,1 @@
-Topology for the sake of doing topology!
+A compilation of my studies in topology. 
